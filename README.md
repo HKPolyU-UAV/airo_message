@@ -3,7 +3,8 @@ These are some common Robot messages that are frequently utilized for control an
 
 ### Add Submodules
 ```
-git submodule add https://github.com/pattylo/airo_message.git {path_to_submodule}
+git submodule add https://github.com/HKPolyU-UAV/airo_message.git 
+git submodule add https://github.com/pattylo/ros_utilities.git 
 git submodule update --init --recursive
 ```
 

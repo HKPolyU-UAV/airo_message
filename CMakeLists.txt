@@ -25,6 +25,7 @@ add_message_files(
   FSMInfo.msg
   Reference.msg
   ReferencePreview.msg
+  Disturbance.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
