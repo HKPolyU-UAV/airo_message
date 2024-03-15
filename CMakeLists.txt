@@ -25,6 +25,7 @@ add_message_files(
   FSMInfo.msg
   Reference.msg
   ReferencePreview.msg
+  ReferenceStamped.msg
   Disturbance.msg
 )
 
