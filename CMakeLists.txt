@@ -27,6 +27,9 @@ add_message_files(
   ReferencePreview.msg
   ReferenceStamped.msg
   Disturbance.msg
+
+  BlueRef.msg
+  BlueRefPreview.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs geometry_msgs)
